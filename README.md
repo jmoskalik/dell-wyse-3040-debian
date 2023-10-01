@@ -1,0 +1,1 @@
+# dell-wyse-3040-linux
