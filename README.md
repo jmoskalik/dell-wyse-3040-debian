@@ -4,7 +4,7 @@ TESTED WITH DEBIAN 10/11/12
 2. While booting the system, press F2 to enter the BIOS.
 3. Change the boot device to your removable media and uncheck all other options (the default BIOS password is "Fireport").
 4. Proceed with the standard installation.
-5. After rebooting, boot into your Debian installation once again, but this time select "rescue mode". Follow the instructions until you see the option to "Force GRUB installation to the EFI removable media path." Click it, then click continue. Select "/dev/mmcblk0p2" in my case (you can check other mmcblk0pX options to see which one works for you), and then reboot.
+5. After rebooting, boot into your Debian installation once again, but this time select "rescue mode". Follow the instructions until you see the option to "Force GRUB installation to the EFI removable media path". Click it, then click continue. Select "/dev/mmcblk0p2" in my case (you can check other mmcblk0pX options to see which one works for you), and then reboot.
 
 ## More information
 https://binarypatrick.dev/posts/linux-on-dell-wyse-3040/ <br />
