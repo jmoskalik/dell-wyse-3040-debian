@@ -1,4 +1,4 @@
-# How to install DEBIAN on DELL Wyse 3040
+# How to install Debian on DELL Wyse 3040
 TESTED WITH DEBIAN 10/11/12
 1. Flash `debian-XX.XX.X-amd64-netinst.iso` onto removable media and plug it into your Wyse 3040.
 2. While booting the system, press F2 to enter the BIOS.
