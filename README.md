@@ -5,4 +5,7 @@
 4. Proceed with the standard installation.
 5. After rebooting, boot into your Debian installation once again, but this time select "rescue mode". Follow the instructions until you see the option to "Force GRUB installation to the EFI removable media path." Click it, then click continue. Select "/dev/mmcblk0p2" in my case (you can check other mmcblk0pX options to see which one works for you), and then reboot.
 
-## Hope this helps
+## More information
+https://binarypatrick.dev/posts/linux-on-dell-wyse-3040/
+https://blog.roberthallam.org/2020/05/psa-dell-wyse-3040-uses-fallback-efi-location/
+https://wiki.debian.org/InstallingDebianOn/Dell/Wyse%203040
