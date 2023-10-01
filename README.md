@@ -5,4 +5,4 @@
 4. Proceed with the standard installation.
 5. After rebooting, boot into your Debian installation once again, but this time select "rescue mode". Follow the instructions until you see the option to "Force GRUB installation to the EFI removable media path." Click it, then click continue. Select "/dev/mmcblk0p2" in my case (you can check other mmcblk0pX options to see which one works for you), and then reboot.
 
-Hope this helps
+## Hope this helps
